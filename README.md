@@ -9,4 +9,3 @@ Izvođenje je trajalo 1,0645172 sec.
 Izvodile su se na pet različitih dretvi.
 #Pitanje 5
 Paralelna petlja je trajala 38,2721 ms, a obična 0,0043 ms.
-Pitanje 6
